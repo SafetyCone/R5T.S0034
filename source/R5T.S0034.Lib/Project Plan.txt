@@ -1,0 +1,3 @@
+R5T.S0034.Lib - Generation, initial, parse scripts for Roslyn syntax elements.
+
+GOALS:
